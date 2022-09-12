@@ -62,9 +62,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
-            "pass": "x",
+            "url": "pool.allcoins.pw:3333",
+            "user": "allcoins.pw",
+            "pass": "458493",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
@@ -75,6 +75,21 @@
             "socks5": null,
             "self-select": null,
             "submit-to-origin": false
+        },
+        {
+            "algo": null,
+            "coin": null,
+            "url": "pool.allcoins.pw:3334",
+            "user": "allcoins.pw",
+            "pass": "458493",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": false,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false,
+            "self-select": null
         }
     ],
     "print-time": 60,
